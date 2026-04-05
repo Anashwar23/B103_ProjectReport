@@ -13,3 +13,9 @@ order by total_amount desc;
 select *
 from Orders
 where total_amount between 100 and 500;
+
+
+#All customers whose email ends with 'gmail.com'
+SELECT *
+FROM Customers
+WHERE email LIKE '%gmail.com';
