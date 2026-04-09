@@ -22,4 +22,12 @@ Files:
 
 8. InnerJoin: Contains query to display an Inner Join of 2 tables
 
-9. 
+9. Case_Query: Contains a query displaying the case functionality
+
+10. If_Query: Contains a query with a logical block
+
+11. Procedure_Query: Contains an executable procedure block
+
+12. Trigger_Query: Contains a trigger that runs automatically
+
+13. Transactions_Query: Contains a control transaction query that would rollback if failed.
